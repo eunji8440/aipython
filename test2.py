@@ -18,4 +18,4 @@ if v != 0:
 if v == 0: # 숫자로 비교
     print("0이다")
 else:
-    print("0이 아니다")
+    print("0이 아니다") 
